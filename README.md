@@ -59,7 +59,7 @@ while True:
 c.close()
 ```
 ## OUPUT
+<img width="1918" height="1142" alt="image" src="https://github.com/user-attachments/assets/24bd8015-34ad-4dfa-b792-18859eeb78c0" />
 
-![alt text](image.png)
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
